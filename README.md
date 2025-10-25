@@ -139,10 +139,5 @@ SELECT * FROM CONSUMPTION;
 
 ---
 
-## Challenges
-
-- The project demands you to develop a perspective of your own,
-- You will find that many questions have different ways to be solved,
-- Your job is to have a reasoning behind why you have chosen to solve the question in that way.
 
 ---
